@@ -6,3 +6,6 @@ Usage :- In Windows : 1. Run file in Terminal
                       2. Paste the video link of the desired download video.
                       3. Select itag for desired stream quality
                       4. Yay Song Downloaded
+
+
+         In Linux : Same as Windows
